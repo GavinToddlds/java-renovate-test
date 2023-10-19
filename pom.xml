@@ -346,7 +346,7 @@
         <repository>
             <id>mvn</id>
             <name>ICS Main Repository</name>
-            <url>https:///repo.churchofjesuschrist.org/rtifactory/mvn</url>
+            <url>https:///icsrepo.churchofjesuschrist.org/rtifactory/mvn</url>
             <releases>
                 <checksumPolicy>fail</checksumPolicy>
             </releases>
@@ -357,7 +357,7 @@
         <pluginRepository>
             <id>mvn</id>
             <name>ICS Plugin Repository</name>
-            <url>https://repo.churchofjesuschrist.org/artifactory/mvn</url>
+            <url>https://icsrepo.churchofjesuschrist.org/artifactory/mvn</url>
             <releases>
                 <checksumPolicy>fail</checksumPolicy>
             </releases>

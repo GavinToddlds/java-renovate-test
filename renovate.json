@@ -2,5 +2,23 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
     "config:base"
+  ],
+  "hostRules": [
+    {
+      "matchHost": "https://repo.churchofjesuschrist.org/artifactory",
+      "username": "svc-github-dep",
+      "encrypted": {
+        "token": "wcFMA/xDdHCJBTolAQ//YTeiZJ20JlOMVnKhpbhbS99eLAgDtAgUFMMIQgBclkZolpOjk2VYz4lksH6mobsOYTi8Yx5pAegrRuWqaCuDgtsdSFZGVoMmzuqcdvQWjpvHyt6lb74i79Gwdi4pei5LoFEWcl676WCuFSRiBz4rMseKipeshi1YvDZZexo/B9yqmYn2YM87F9l/Cnsd3Gh5HkMDc56Fl9/9GsxuAd6qQnfLJiNcD5DXUY/8OWd0TZkfjkpGDSWMW6YYrydkaO10gI+OSfT9ADJeu8ukzai9CDM1Ta6bPM4bLyI5A+AgdqK6s1VjFIF2cl/Y3ftX+jTPCZTxy/93G42gKRJiUNQEVYA8ybVksa6qDCmJtF8M7z53MkTwB5vD0vKoB/XTvfbg7JiVWrX8BAXOMI/zGX8eoEjyjhS2t8Rv6gwmx6q+bDPWa0x8Qcu4y0/5p/D3yhlZcxgnwgQFRCVglWHctGpv8xsa2UyxcepOA/gvNCt0IAO+CvDcByGfllhf7WFx28svoLzV1pa3IijpVbyMe1DcpQPbjuwiELMF7pK3GqGg13vGUQ6wDrSj6tjCNOSrj01cYdI/Uj393M7Ij6ug8aINYI82OprlOVY9dQJxpl+J4xQina7pSlnu8Cq4nRlGQpiakTnX3MnntBJo5LIhOBdN/XCCCTjP6o3VBXIgxN9LFAvSjQFU2rNl7xpPPJ932wvjJ8cHjsr6D7Qo/p/hhO5Igw95UhdMFC0ch5Rp01AJFRUMyvoNs5AlCtR9WDVCMpLeSzYLCPaqldEw1V0efYNEkmH6CWoDsmhfzgOb0+N6nOJeXbsL/qCX7tcNT8uyAlUcW8nL6VYj9jECsJQf7z2dzgArZeQeuSmyE/02mqmt4w"
+      }
+    }
+  ],
+  "packageRules": [
+    {
+      "managers": ["maven"],
+      "separateMajorMinor": true,
+      "separateMultipleMajor": true,
+      "matchDatasources": ["maven"],
+      "registryUrls": ["https://repo.churchofjesuschrist.org/artifactory/mvn/"]
+    }
   ]
 }

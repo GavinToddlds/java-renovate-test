@@ -157,6 +157,7 @@
         <dependency>
             <groupId>lds.stack.platform</groupId>
             <artifactId>java-stack-starter-test</artifactId>
+            <version>${java-stack.version}</version>
             <scope>test</scope>
         </dependency>
     </dependencies>

@@ -6,7 +6,7 @@
       "matchHost": "https://repo.churchofjesuschrist.org/artifactory",
       "username": "svc-github-dep",
       "encrypted": {
-        "token": "wcFMA/xDdHCJBTolAQ//daMjJtRWP/ktE2/4ffHpH3iWb7fZ/KjOP7l9LeU4JfScwjd1l4HZy7DZbt9Jp2EfPKzbzCdB7HyLxXYZypW8QHVQyNs8LukA2KdcGm34ie0r/yFr2cyGkfG/gpfQwImUH1Abj0tt5kULjnT3xnQYNb+kv8Ar5BVG9rGgowu3bzXmhfulpcEygvmLkU7ZWs3SHdWqXcdmSC23M4nqNb2a9pvHFohdQizrd3ccEmxRxcMvYFNAbkLXcE99G0CAGVJEJokPw6yPZtJfYE0L+wxUQSXXEGjFwyGpgUqPX1uE0oSy7opfNzwmaNb80htV9x84KaDla9LyF6BRts+9k4W5lKCtTIyHnaPvBVPnQh9brZUhMduulCX8Xnqzqj68EGUqaEiVFoJaGkbp0q29c0dj5NRu27XNZSB9L7RWGO+AY2pf+d2POvcwP6k+N/ODd6g5DvCx9NRG460J7z/4xkTaRbmHa6zVXDAj4ZSsVcf6N1uObBoYLIGBWsrVC8RJJXO3NNPAHNcNRy9wWI9nXIdkg9kDAKuE6qomhHgd7p2019kZo/EQYcn5sNQwDDU5VVvtFTMpRrcB7eEcPMmzwjKbGstdrGQP2X2UAZQEavDSNqCNLQ0JiTS6lnWPdxG+C33vH6yTkLD1i3SoEytUsB4rkWy5PgFnKvwHcu4FG+MrhOPSkwFcYMHqUEM/xT11TPpRTP12+vBWmO5+N/4fr8GPUHHP3oBaR3C90yiA/M7jjDYiQgB76c7WFU5vq+XO8s/LYjK79X/Ibf/JvTiPA8f+/rkEGhY7ZbRtX5kGRtCUSy3GXUvyivnIJLDDZc/BsDDYh+z5mGObfHmKW+IlfApFz62aHV+qR5mFaI7m5h2A5UomMpkVWQ"
+        "token": ""
       }
     },
         {
@@ -14,7 +14,7 @@
       "username": "svc-github-dep",
       "hostType": "maven",
       "encrypted": {
-        "token": "wcFMA/xDdHCJBTolAQ//daMjJtRWP/ktE2/4ffHpH3iWb7fZ/KjOP7l9LeU4JfScwjd1l4HZy7DZbt9Jp2EfPKzbzCdB7HyLxXYZypW8QHVQyNs8LukA2KdcGm34ie0r/yFr2cyGkfG/gpfQwImUH1Abj0tt5kULjnT3xnQYNb+kv8Ar5BVG9rGgowu3bzXmhfulpcEygvmLkU7ZWs3SHdWqXcdmSC23M4nqNb2a9pvHFohdQizrd3ccEmxRxcMvYFNAbkLXcE99G0CAGVJEJokPw6yPZtJfYE0L+wxUQSXXEGjFwyGpgUqPX1uE0oSy7opfNzwmaNb80htV9x84KaDla9LyF6BRts+9k4W5lKCtTIyHnaPvBVPnQh9brZUhMduulCX8Xnqzqj68EGUqaEiVFoJaGkbp0q29c0dj5NRu27XNZSB9L7RWGO+AY2pf+d2POvcwP6k+N/ODd6g5DvCx9NRG460J7z/4xkTaRbmHa6zVXDAj4ZSsVcf6N1uObBoYLIGBWsrVC8RJJXO3NNPAHNcNRy9wWI9nXIdkg9kDAKuE6qomhHgd7p2019kZo/EQYcn5sNQwDDU5VVvtFTMpRrcB7eEcPMmzwjKbGstdrGQP2X2UAZQEavDSNqCNLQ0JiTS6lnWPdxG+C33vH6yTkLD1i3SoEytUsB4rkWy5PgFnKvwHcu4FG+MrhOPSkwFcYMHqUEM/xT11TPpRTP12+vBWmO5+N/4fr8GPUHHP3oBaR3C90yiA/M7jjDYiQgB76c7WFU5vq+XO8s/LYjK79X/Ibf/JvTiPA8f+/rkEGhY7ZbRtX5kGRtCUSy3GXUvyivnIJLDDZc/BsDDYh+z5mGObfHmKW+IlfApFz62aHV+qR5mFaI7m5h2A5UomMpkVWQ"
+        "token": ""
       }
     }
   ],
